@@ -25,6 +25,8 @@ tfplan
 *.json
 !**/schemas/*.json
 !**/fixtures/*.json
+!release-please-config.json
+!.release-please-manifest.json
 service-account*.json
 gcp-key*.json
 application_default_credentials.json
